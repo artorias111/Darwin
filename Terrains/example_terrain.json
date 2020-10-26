@@ -1,0 +1,14 @@
+//An example of a terrain
+//A terrain is described in a JSON format for uniformity and easy formatting and editing. 
+//All temperatures in degree Celsius
+//Rainfall in millimeters per hour. (Annually)
+//Plant Food on a scale of 1 to 10; 10 being very abundant and 0 being absolutely no plant food.
+
+{
+    "Name":"Tundra";
+    "TempAvg":-25;
+    "TempVar":5;
+    "RainAvg":170;
+    "RainVar:25;
+    "PlantFood":2
+}
